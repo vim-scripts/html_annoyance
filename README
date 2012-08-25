@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4192
+
+Html <A>nnoyance
+
+This is an extra HTML syntax file which fixes one of vim's annoyances. 
+Preview: https://raw.github.com/tudorprodan/html_annoyance.vim/master/preview.png
+
+It removes the underlining from leading and trailing whitespace in <A> tags.
+
+Repository:
+https://github.com/tudorprodan/html_annoyance.vim
